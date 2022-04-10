@@ -25,3 +25,28 @@ body {
     color: rgb(132, 239, 105);
     padding: 1em 0 1em 1em;
 }
+
+#nav-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(37, 36, 36);
+  }
+  
+  #nav-menu > li {
+    float: left;
+  }
+  
+  #nav-menu > li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  #nav-menu > li a:hover {
+    background-color: #111;
+    border-radius: 10%;
+  }
