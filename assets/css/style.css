@@ -11,6 +11,7 @@ body {
     font-weight: 350;
 }
 
+/* Logo */
 #logo-background-image {
     background-image: url(../images/background-logo-img.jpg);
     height: 200px;
@@ -27,6 +28,7 @@ body {
     padding: 1em 0 1em 1em;
 }
 
+/* Navigation menu */
 #nav-menu {
     list-style-type: none;
     margin: 0;
@@ -51,7 +53,7 @@ body {
     background-color: #111;
     border-radius: 10%;
   }
-
+/* Main section home page*/
   #portuguese-gastronomy {
     display: flex;
     justify-content: center;
@@ -64,6 +66,7 @@ body {
     text-align: center;
     border: 5px solid #ccf4cc;
     padding: 10px;
+    font-family: lora, sans-serif;
   }
 
   #homepage-meat-image {
@@ -92,4 +95,9 @@ body {
     height: 200px;
     background-image: url(../images/dessert-img.jpg);
     background-position: center;
+  }
+
+  #portuguese-gastronomy :hover {
+    background-color: #ccf4cc;
+    color: black;
   }
