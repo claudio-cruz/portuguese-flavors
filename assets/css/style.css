@@ -112,7 +112,7 @@ body {
   /* Portuguese Gastronomy */
   #portuguese-gastronomy {
     width: 70%;
-    height: 400px;
+    height: auto;
     font-family: lora, sans-serif;
     background-color: rgb(234, 251, 232);
     text-align: center;
@@ -120,6 +120,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
+    border: 5px solid #ccf4cc;
+    border-radius: 10px;
   }
 
   #portuguese-gastronomy > h2 {
