@@ -169,3 +169,22 @@ body {
     color: white;
     background-color: rgb(65, 65, 65);
   }
+
+  /* Footer */
+footer {
+  background-color: black;
+}
+
+  .social-media-links {
+    text-align: center;
+  }
+
+  .social-media-links li {
+    display: inline;
+}
+
+.social-media-links i {
+  font-size: 200%;
+  color: white;
+  padding: 10px 20px 10px 20px;
+}
