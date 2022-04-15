@@ -35,6 +35,8 @@ body {
     padding: 0;
     overflow: hidden;
     background-color: rgb(37, 36, 36);
+    font-weight: bold;
+    letter-spacing: 2px;
   }
   
   #nav-menu > li {
@@ -45,13 +47,13 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 15px;
     text-decoration: none;
   }
   
   #nav-menu > li a:hover {
-    background-color: #111;
-    border-radius: 10%;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
   }
 
 /* Main section home page*/
