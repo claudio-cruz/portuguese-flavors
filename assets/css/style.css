@@ -27,9 +27,13 @@ body {
     font-family: lora, sans-serif;
     float: left;
     font-size: 350%;
-    color: rgb(132, 239, 105);
     padding: 1em 0 1em 1em;
     letter-spacing: 3px;
+}
+
+#logo > a {
+  text-decoration: none;
+  color: rgb(132, 239, 105);
 }
 
 /* Navigation menu */
@@ -140,7 +144,8 @@ body {
   }
 
   #portuguese-gastronomy > p {
-    margin-bottom: 7px;
+    margin-bottom: 5px;
+    margin: 0 5px;
   }
 
   /* Sign up form */
@@ -203,4 +208,43 @@ footer {
   font-size: 200%;
   color: white;
   padding: 10px 15px 10px 15px;
+}
+
+/* Media queries */
+
+/* For large to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+  #logo {
+    font-size: 300%;
+  }
+
+  #logo-background-image {
+    height: 150px;
+    display: flex;
+  }
+
+  #main-section {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .front-img {
+    background-size: cover;
+  }
+
+  #main-section > div {
+    width: 40%;
+  }
+
+  #portuguese-gastronomy {
+    width: 86%;
+  }
+
+  .signup-form {
+    width: 70%;
+  }
+
+
 }
