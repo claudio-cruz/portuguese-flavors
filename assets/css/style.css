@@ -26,6 +26,8 @@ body {
     font-size: 350%;
     color: rgb(132, 239, 105);
     padding: 1em 0 1em 1em;
+    letter-spacing: 3px;
+    font-weight: 800;
 }
 
 /* Navigation menu */
