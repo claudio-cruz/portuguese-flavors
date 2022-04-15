@@ -74,30 +74,34 @@ body {
 
   #homepage-meat-image {
     width: 100%;
-    height: 200px;
+    height: 230px;
     background-image: url(../images/meat-img.jpg);
     background-position: center;
+    margin: 15px 0 15px 0;
   }
 
   #homepage-fish-image {
     width: 100%;
-    height: 200px;
+    height: 230px;
     background-image: url(../images/fish-img.jpg);
     background-position: center;
+    margin: 15px 0 15px 0;
   }
 
   #homepage-vegetarian-image {
     width: 100%;
-    height: 200px;
+    height: 230px;
     background-image: url(../images/vegetarian-img.jpg);
     background-position: center;
+    margin: 15px 0 15px 0;
   }
 
   #homepage-dessert-image {
     width: 100%;
-    height: 200px;
+    height: 230px;
     background-image: url(../images/dessert-img.jpg);
     background-position: center;
+    margin: 15px 0 15px 0;
   }
 
   .front-img {
