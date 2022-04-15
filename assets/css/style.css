@@ -27,7 +27,6 @@ body {
     color: rgb(132, 239, 105);
     padding: 1em 0 1em 1em;
     letter-spacing: 3px;
-    font-weight: 800;
 }
 
 /* Navigation menu */
@@ -133,8 +132,12 @@ body {
   }
 
   #portuguese-gastronomy > h2 {
-    height: 60px;
     vertical-align: middle;
+    margin: 7px 0 7px 0;
+  }
+
+  #portuguese-gastronomy > p {
+    margin-bottom: 7px;
   }
 
   /* Sign up form */
