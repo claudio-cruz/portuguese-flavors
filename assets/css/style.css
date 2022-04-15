@@ -128,7 +128,7 @@ body {
     margin-right: auto;
     margin-top: 30px;
     border: 5px solid #ccf4cc;
-    border-radius: 10px;
+    border-radius: 10px; 
   }
 
   #portuguese-gastronomy > h2 {
@@ -164,6 +164,7 @@ body {
     padding: 5px 0 0 0;
     height: 20px;
     margin: 5px 0 20px 0;
+    font-size: 20px;
   }
 
 .signup-submit {
@@ -174,6 +175,7 @@ body {
   width: 20%;
   margin-left: 40%;
   margin-right: 40%;
+  font-weight: bold;
 }
 
   .signup-submit:hover {
@@ -197,5 +199,5 @@ footer {
 .social-media-links i {
   font-size: 200%;
   color: white;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 15px 10px 15px;
 }
