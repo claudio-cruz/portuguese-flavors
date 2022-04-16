@@ -80,6 +80,7 @@ body {
     border-radius: 10px;
     padding: 10px;
     font-family: lora, sans-serif;
+    background-color: rgba(227, 216, 202, 0.597);
   }
 
   #homepage-meat-image {
@@ -123,7 +124,7 @@ body {
     color: black;
   }
 
-  /* Portuguese Gastronomy */
+  /* Portuguese gastronomy */
   #portuguese-gastronomy {
     width: 70%;
     height: auto;
