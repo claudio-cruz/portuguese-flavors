@@ -211,6 +211,32 @@ footer {
   padding: 10px 15px 10px 15px;
 }
 
+/* Meat recipes page */
+
+.recipe-img {
+  width: 40%;
+  padding: 40px 20px 40px 100px;
+  float: left;
+  margin: auto;
+}
+
+.recipe-img > img {
+  max-width: 100%;
+  height: auto;
+}
+
+#ingredients-list {
+  width: 40%;
+  float: right;
+  padding: 40px 20px 40px 100px;
+}
+
+#preparation-list {
+  width: 100%;
+  float: left;
+  display: inline-block;
+}
+
 /* Media queries */
 
 /* For large to medium screens size from 1200px wide and down */
