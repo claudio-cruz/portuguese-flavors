@@ -282,5 +282,38 @@ footer {
   margin-right: 35%;
   }
 
+}
+
+/* For small screens sizes from 500px wide and down */
+@media screen and (max-width: 500px) {
+
+  #logo {
+    font-size: 200%;
+    letter-spacing: 1px;
+    padding-top: 30px;
+  }
+
+  #logo-background-image {
+    height: 100px;
+    display: flex;
+    background-image: url(../images/background-logo-small.jpg);
+  }
+  
+  #nav-menu {
+    letter-spacing: 1px;
+  }
+
+  #nav-menu > li a {
+    padding: 10px 6px;
+  }
+
+  #main-section {
+    margin: 10px 0 10px 0;
+  }
+
+  .signup-form > h3 {
+    padding: 5px;
+    margin-bottom: 5px;
+  }
 
 }
