@@ -246,5 +246,41 @@ footer {
     width: 70%;
   }
 
+}
+
+/* For medium screens sizes from 800px wide and down */
+@media screen and (max-width: 800px) {
+  #logo {
+    font-size: 250%;
+    letter-spacing: 1px;
+    padding-left: 10px;
+    padding-top: 50px;
+  }
+
+  #main-section {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .front-img {
+    background-size: cover;
+  }
+
+  #main-section > div {
+    width: 80%;
+  }
+
+  .signup-form {
+    width: 85%;
+  }
+
+  .signup-submit {
+    width: 30%;
+  margin-left: 35%;
+  margin-right: 35%;
+  }
+
 
 }
