@@ -80,7 +80,7 @@ body {
     border-radius: 10px;
     padding: 10px;
     font-family: lora, sans-serif;
-    background-color: rgba(227, 216, 202, 0.597);
+    background-color: rgba(200, 157, 132, 0.2);
     cursor: pointer;
   }
 
@@ -176,6 +176,7 @@ body {
     border: 5px solid rgb(78, 78, 78);
     border-radius: 10px;
     padding: 10px;
+    font-weight: bold;
   }
 
   .signup-form > h3 {
@@ -185,27 +186,31 @@ body {
   }
 
   .text-input {
-    width: 100%;
-    padding: 5px 0 0 0;
-    height: 20px;
-    margin: 5px 0 20px 0;
+    width: 98%;
+    padding: 6px;
+    height: 30px;
+    margin: 5px 0 15px 0;
     font-size: 20px;
+    border-radius: 4px;
   }
 
 .signup-submit {
   text-align: center;
   border-radius: 3px;
-  background-color: rgb(160, 160, 160);
+  background-color: rgb(166, 166, 166);
   padding: 10px;
-  width: 20%;
-  margin-left: 40%;
-  margin-right: 40%;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
   font-weight: bold;
+  display: block;
+  border: rgb(65, 65, 65) 3px solid;
 }
 
   .signup-submit:hover {
     color: white;
     background-color: rgb(65, 65, 65);
+    cursor: pointer;
   }
 
   /* Footer */
@@ -317,12 +322,6 @@ footer {
 
   .signup-form {
     width: 85%;
-  }
-
-  .signup-submit {
-    width: 30%;
-  margin-left: 35%;
-  margin-right: 35%;
   }
 
 }
