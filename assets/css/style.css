@@ -128,15 +128,15 @@ body {
   #portuguese-gastronomy {
     width: 70%;
     height: auto;
+    padding: 10px;
     font-family: lora, sans-serif;
-    background-color: rgb(234, 251, 232);
+    background-color: rgba(198, 126, 87, 0.607);
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
-    border: 5px solid #ccf4cc;
-    border-radius: 10px; 
+    border-radius: 10px;
   }
 
   #portuguese-gastronomy > h2 {
@@ -146,7 +146,13 @@ body {
 
   #portuguese-gastronomy > p {
     margin-bottom: 5px;
-    margin: 0 5px;
+    margin: 8px 5px;
+  }
+
+  h2 > a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
   }
 
   /* Sign up form */
