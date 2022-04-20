@@ -232,7 +232,7 @@ footer {
   padding: 10px 15px 10px 15px;
 }
 
-/* Meat recipes page */
+/* Meat fish vegetarian and desserts recipes page */
 
 .recipe-section {
   font-family: lora,sans-serif;
@@ -246,6 +246,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
   font-size: 150%;
+  font-size: 200%;
 }
 
 .recipe-img {
@@ -379,6 +380,10 @@ footer {
     margin-right: 10px;
   }
 
+  .recipe-title {
+    font-size: 150%;
+  }
+
   .recipe-img {
     padding: 35px;
   }
@@ -425,6 +430,7 @@ footer {
 
   .recipe-title {
     padding: 10px 0;
+    font-size: 100%;
   }
 
   .recipe-img {
