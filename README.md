@@ -6,6 +6,7 @@ Our main goal is to give users access to the best and most famous Portuguese rec
 ![This is an image](./assets/images/media-quires-layouts.png)
 
 ## Features
+<hr>
 
 - __Navigation Bar__
 
