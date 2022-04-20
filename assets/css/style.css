@@ -375,6 +375,10 @@ footer {
     width: 85%;
   }
 
+  #fname, #lname, #email {
+    margin-right: 10px;
+  }
+
   .recipe-img {
     padding: 35px;
   }
