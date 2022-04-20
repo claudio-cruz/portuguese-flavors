@@ -17,6 +17,7 @@ body {
 /* Logo */
 #logo-background-image {
     background-image: url(../images/background-logo-img.jpg);
+    background-color: #5b4b40;
     height: 200px;
     background-repeat: no-repeat;
     background-size: 100%;
