@@ -27,3 +27,9 @@ Our main goal is to give users access to the best and most famous Portuguese rec
   - The form is provided in an easy and simple way, requesting  only the first name, last name and email, giving users the  option to receive weekly recipes in their emails.
 
 ![This is an image](./assets/images/signup-form-img.png)
+
+- __Footer__
+
+  - The footer has social media logos with links connected to them. That gives the users easy access to the Portuguese Flavours social media platforms. Such as Instagram, Facebook, YouTube,and LinkedIn.
+
+  ![This is an image](./assets/images/footer-img.png)
