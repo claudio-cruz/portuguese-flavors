@@ -15,3 +15,15 @@ Our main goal is to give users access to the best and most famous Portuguese rec
 
 ![This is an image](./assets/images/navigation-menu-img.png)
 
+- __Main section__
+
+  - The main section has four blocks that represent the recipe categories. Each one has the recipe section title, a respective picture and a short description of that particular section.
+  - The blocks have the respective links added to them, enabling users to navigate easily through the website.
+
+![This is an image](./assets/images/main-section-img.png)
+
+- __Sign up form__
+
+  - The form is provided in an easy and simple way, requesting  only the first name, last name and email, giving users the  option to receive weekly recipes in their emails.
+
+![This is an image](./assets/images/signup-form-img.png)
