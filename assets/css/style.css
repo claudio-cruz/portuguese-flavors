@@ -349,6 +349,11 @@ footer {
     display: inline;
   }
 
+  .recipe-title {
+    font-size: 150%;
+    margin: 20px auto ;
+  }
+
   .recipe-img {
     margin: 15px auto 30px auto;
     width: 70%;
@@ -401,11 +406,20 @@ footer {
   }
 
   .recipe-title {
-    font-size: 150%;
+    font-size: 110%;
+    padding: 10px;
+    margin: 15px auto;
+    width: 90%;
   }
 
   .recipe-img {
-    padding: 35px;
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  .ingredients-list {
+    margin: 25px auto 0 auto;
+    width: 40%;
   }
 
   .steps-list {
