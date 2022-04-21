@@ -268,6 +268,8 @@ footer {
   object-fit: cover;
   overflow: hidden;
   border-radius: 10px;
+  box-shadow: 10px 10px 5px rgba(67, 65, 65, 0.7);
+  border-radius:25px;
 }
 
 .ingredients-title {
