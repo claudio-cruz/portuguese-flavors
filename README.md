@@ -33,4 +33,36 @@ Our main goal is to give users access to the best and most famous Portuguese rec
 
   - The footer has social media logos with links connected to them. That gives the users easy access to the Portuguese Flavours social media platforms. Such as Instagram, Facebook, YouTube,and LinkedIn.
 
-  ![This is an image](./assets/images/footer-img.png)
+![This is an image](./assets/images/footer-img.png)
+
+- __Meat recipes page__
+
+    - The user can find meat recipes on the meat recipes page.
+    - Each meat recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
+    - The meat recipes page follows the same structure and design as the home page, making the website intuitive.
+
+![This is an image](./assets/images/meat-recipes-img.png)
+
+- __Fish recipes page__
+
+    - The user can find fish recipes on the fish recipes page.
+    - Each fish recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
+    - The fish recipes page follows the same structure and design as the home page, making the website intuitive.
+
+![This is an image](./assets/images/fish-recipes-img.png)    
+
+- __Vegetarian recipes page__
+
+    - The user can find vegetarian recipes on the vegetarian recipes page.
+    - Each vegetarian recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
+    - The vegetarian recipes page follows the same structure and design as the home page, making the website intuitive.
+
+![This is an image](./assets/images/vegetarian-recipes-img.png)
+
+- __Dessert recipes page__
+
+    - The user can find dessert recipes on the dessert recipes page.
+    - Each dessert recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
+    - The dessert recipes page follows the same structure and design as the home page, making the website intuitive.
+
+![This is an image](./assets/images/desserts-recipes-img.png)    
