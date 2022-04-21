@@ -125,6 +125,7 @@ body {
     background-image: url(../images/dessert-img.jpg);
     background-position: center;
     margin: 15px 0 15px 0;
+    box-shadow: 10px 10px 5px rgba(67, 65, 65, 0.3);
   }
 
   .front-img {
@@ -149,6 +150,7 @@ body {
     margin-right: auto;
     margin-top: 30px;
     border-radius: 10px;
+    box-shadow: 10px 10px 5px rgba(67, 65, 65, 0.5);
   }
 
   #portuguese-gastronomy > h2 {
@@ -179,6 +181,7 @@ body {
     border-radius: 10px;
     padding: 10px;
     font-weight: bold;
+    box-shadow: 10px 10px 5px rgba(67, 65, 65, 0.5);
   }
 
   .signup-form > h3 {
@@ -286,6 +289,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  box-shadow: 10px 10px 5px rgba(67, 65, 65, 0.7);
 }
 
 .ingredients-list > ul {
@@ -302,6 +306,7 @@ footer {
   border-radius: 10px;
   border: rgba(198, 126, 87, 0.6) 5px solid;
   margin-top: 50px;
+  box-shadow: 10px 10px 5px rgba(67, 65, 65, 0.7);
 }
 
 
