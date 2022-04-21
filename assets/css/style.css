@@ -446,7 +446,8 @@ footer {
   }
   
   #nav-menu {
-    letter-spacing: 1px;
+    letter-spacing: 0;
+    font-weight: normal;
   }
 
   #nav-menu > li a {
@@ -455,6 +456,10 @@ footer {
 
   #main-section {
     margin: 10px 0 10px 0;
+  }
+
+  .signup-form {
+    width: 90%;
   }
 
   .signup-form > h3 {
@@ -471,8 +476,14 @@ footer {
     padding: 10px;
   }
 
+  .ingredients-list {
+    width: 90%;
+    padding: 0;
+    margin-bottom: 35px;
+  }
+
   .steps-list {
-    margin: 20px 5px 10px 5px;
+    margin: 20px 5px 30px 5px;
   }
 
 }
