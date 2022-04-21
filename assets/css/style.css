@@ -125,7 +125,6 @@ body {
     background-image: url(../images/dessert-img.jpg);
     background-position: center;
     margin: 15px 0 15px 0;
-    box-shadow: 10px 10px 5px rgba(67, 65, 65, 0.3);
   }
 
   .front-img {
@@ -346,15 +345,21 @@ footer {
     width: 70%;
   }
 
+  .img-ingredients-div {
+    display: inline;
+  }
+
   .recipe-img {
-    margin-left: auto;
-    margin-right: auto;
+    margin: 15px auto 30px auto;
+    width: 70%;
+    display: block;
   }
 
   .ingredients-list {
     margin-left: auto;
     margin-right: auto;
     padding: 0 40px 10px 40px;
+    width: 30%;
   }
 
   .steps-list {
