@@ -65,4 +65,10 @@ Our main goal is to give users access to the best and most famous Portuguese rec
     - Each dessert recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
     - The dessert recipes page follows the same structure and design as the home page, making the website intuitive.
 
-![This is an image](./assets/images/desserts-recipes-img.png)    
+![This is an image](./assets/images/desserts-recipes-img.png)
+
+- __Features left to implement__
+
+  - Inthe future it will implement a veagon and soup recipe sections, giving the user more recipes.
+  - It will be also added to each recipe a preparation time of the recipe , difficulty of the recipe and how many serving per recipe.
+  - There will be a review section for each recipe.
