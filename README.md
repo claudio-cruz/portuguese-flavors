@@ -72,3 +72,14 @@ Our main goal is to give users access to the best and most famous Portuguese rec
   - Inthe future it will implement a veagon and soup recipe sections, giving the user more recipes.
   - It will be also added to each recipe a preparation time of the recipe , difficulty of the recipe and how many serving per recipe.
   - There will be a review section for each recipe.
+
+## Testing
+<hr>
+
+ -  I tested that this page works in different browsers: Microsoft Edge, Chrome, Opera, Firefox and Safari.
+  - I tested the website in a variety of screen sizes, including full screen, 1200px down, 800px down, 800px down, and 500px down.I confirmed that this project is responsive to all screen sizes.
+  - 
+
+
+
+
