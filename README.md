@@ -78,8 +78,10 @@ Our main goal is to give users access to the best and most famous Portuguese rec
 
  -  I tested that this page works in different browsers: Microsoft Edge, Chrome, Opera, Firefox and Safari.
   - I tested the website in a variety of screen sizes, including full screen, 1200px down, 800px down, 800px down, and 500px down.I confirmed that this project is responsive to all screen sizes.
-  - 
+  - I have confirmed that the form works in all different screen sizes and browsers, requiring the first name, the last name and a valid email. The submit button also works.
 
+### Bugs
 
+  -
 
 

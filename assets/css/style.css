@@ -231,12 +231,12 @@ footer {
 }
 
 .social-media-links i {
-  font-size: 200%;
+  font-size: 180%;
   color: white;
-  padding: 10px 15px 10px 15px;
+  padding: 10px 20px;
 }
 
-/* Meat fish vegetarian and desserts recipes page */
+/* Meat fish vegetarian and desserts recipe pages */
 
 .recipe-section {
   font-family: lora,sans-serif;
