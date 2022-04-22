@@ -1,5 +1,7 @@
 # Portuguese Flavors
 
+## Click here to go to the webpage [Portuguese Flavors](https://claudio-cruz.github.io/portuguese-flavors/).
+<br>
 Portuguese Flavours is a website for people who are passionate about food and love to cook and eat. The website focuses on Portuguese gastronomy, which is one of the world's best gastronomies. Here you can find a variety of delicious recipes that are easy to make and separated into sections: meat, fish, vegetarian, and desserts. 
 Our main goal is to give users access to the best and most famous Portuguese recipes in an easy and simple way to cook.
 
@@ -82,6 +84,19 @@ Our main goal is to give users access to the best and most famous Portuguese rec
 
 ### Bugs
 
-  -
+- __Solved bugs__
+  - When I ran my HTML code in the W3C HTML Validator, I had a bug. It said that in my main section I should remove my closing p tags, but that would break the code. I solved the bug by reorganizing the section and giving more open and closing p tags to the section.
+  -  When styling the recipes page, I had a bug when I was lining up two div elements. They had the same padding and the same margin, but the second div was puched down. I fixed this problem by restrocturing the section, putting both divs inside another div and giving the max-width 100% to both.
 
+### Validator Testing
+
+- __HTML__
+  - No errors were returned, in all HTML pages, when passing through the official W3C HTML Validator;
+     - Home page [W3C HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaudio-cruz.github.io%2Fportuguese-flavors%2Findex.html).
+     - Meat recipes [W3C HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaudio-cruz.github.io%2Fportuguese-flavors%2Fmeat-recipes.html).
+     - Fish recipes [W3C HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaudio-cruz.github.io%2Fportuguese-flavors%2Ffish-recipes.html).
+     - Vegetarian recipes [W3C HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaudio-cruz.github.io%2Fportuguese-flavors%2Fvegetarian-recipes.html).
+     - Dessert recipes [W3C HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaudio-cruz.github.io%2Fportuguese-flavors%2Fdesserts-recips.html).
+- __CSS__
+  - No errors were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fclaudio-cruz.github.io%2Fportuguese-flavors%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv).
 
