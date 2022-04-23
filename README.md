@@ -1,16 +1,13 @@
 # Portuguese Flavors
 
-## Click here to go to the webpage [Portuguese Flavors](https://claudio-cruz.github.io/portuguese-flavors/).
-<br>
+Click here to go to the webpage [Portuguese Flavors](https://claudio-cruz.github.io/portuguese-flavors/).
+
 Portuguese Flavours is a website for people who are passionate about food and love to cook and eat. The website focuses on Portuguese gastronomy, which is one of the world's best gastronomies. Here you can find a variety of delicious recipes that are easy to make and separated into sections: meat, fish, vegetarian, and desserts. 
 Our main goal is to give users access to the best and most famous Portuguese recipes in an easy and simple way to cook.
 
-<br>
-
-![This is an image](./assets/images/media-quires-layouts.png)
+![Different screen layouts](./assets/images/media-quires-layouts.png)
 
 ## Features
-<hr>
 
 - __Navigation Bar__
 
@@ -18,26 +15,26 @@ Our main goal is to give users access to the best and most famous Portuguese rec
   - It's easy to identify, having strong colour contrasts in relation to other elements, and it is at the top of all pages, enabling the user to navigate easily through the website.
   - The navigation menu is responsive, when the cursor is hover the option, the background colour changes to create a better experience for the users.
 
-![This is an image](./assets/images/navigation-menu-img.png)
+![Navegation menu](./assets/images/navigation-menu-img.png)
 
 - __Main section__
 
   - The main section has four blocks that represent the recipe categories. Each one has the recipe section title, a respective picture and a short description of that particular section.
   - The blocks have the respective links added to them, enabling users to navigate easily through the website.
 
-![This is an image](./assets/images/main-section-img.png)
+![Main section](./assets/images/main-section-img.png)
 
 - __Sign up form__
 
   - The form is provided in an easy and simple way, requesting  only the first name, last name and email, giving users the  option to receive weekly recipes in their emails.
 
-![This is an image](./assets/images/signup-form-img.png)
+![Sign up form](./assets/images/signup-form-img.png)
 
 - __Footer__
 
   - The footer has social media logos with links connected to them. That gives the users easy access to the Portuguese Flavours social media platforms. Such as Instagram, Facebook, YouTube,and LinkedIn.
 
-![This is an image](./assets/images/footer-img.png)
+![Footer](./assets/images/footer-img.png)
 
 - __Meat recipes page__
 
@@ -45,7 +42,7 @@ Our main goal is to give users access to the best and most famous Portuguese rec
     - Each meat recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
     - The meat recipes page follows the same structure and design as the home page, making the website intuitive.
 
-![This is an image](./assets/images/meat-recipes-img.png)
+![Meat recipes](./assets/images/meat-recipes-img.png)
 
 - __Fish recipes page__
 
@@ -53,7 +50,7 @@ Our main goal is to give users access to the best and most famous Portuguese rec
     - Each fish recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
     - The fish recipes page follows the same structure and design as the home page, making the website intuitive.
 
-![This is an image](./assets/images/fish-recipes-img.png)    
+![Fish recipes](./assets/images/fish-recipes-img.png)    
 
 - __Vegetarian recipes page__
 
@@ -61,7 +58,7 @@ Our main goal is to give users access to the best and most famous Portuguese rec
     - Each vegetarian recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
     - The vegetarian recipes page follows the same structure and design as the home page, making the website intuitive.
 
-![This is an image](./assets/images/vegetarian-recipes-img.png)
+![Vegetarian recipes](./assets/images/vegetarian-recipes-img.png)
 
 - __Dessert recipes page__
 
@@ -69,7 +66,7 @@ Our main goal is to give users access to the best and most famous Portuguese rec
     - Each dessert recipe includes a photo of the dish, an ingredient list, and a list of how to prepare it.
     - The dessert recipes page follows the same structure and design as the home page, making the website intuitive.
 
-![This is an image](./assets/images/desserts-recipes-img.png)
+![Dessert recipes](./assets/images/desserts-recipes-img.png)
 
 - __Features left to implement__
 
@@ -78,21 +75,18 @@ Our main goal is to give users access to the best and most famous Portuguese rec
   - There will be a review section for each recipe.
 
 ## Testing
-<hr>
 
  -  I tested that this page works in different browsers: Microsoft Edge, Chrome, Opera, Firefox and Safari.
   - I tested the website in a variety of screen sizes, including full screen, 1200px down, 800px down, 800px down, and 500px down.I confirmed that this project is responsive to all screen sizes.
   - I have confirmed that the form works in all different screen sizes and browsers, requiring the first name, the last name and a valid email. The submit button also works.
 
 ## Bugs
-<hr>
 
 - __Solved bugs__
   - When I ran my HTML code in the W3C HTML Validator, I had a bug. It said that in my main section I should remove my closing p tags, but that would break the code. I solved the bug by reorganizing the section and giving more open and closing p tags to the section.
   -  When styling the recipes page, I had a bug when I was lining up two div elements. They had the same padding and the same margin, but the second div was puched down. I fixed this problem by restrocturing the section, putting both divs inside another div and giving the max-width 100% to both.
 
 ## Validator Testing
-<hr>
 
 - __HTML__
   - No errors were returned, in all HTML pages, when passing through the official W3C HTML Validator;
@@ -107,26 +101,26 @@ Our main goal is to give users access to the best and most famous Portuguese rec
 - __Accessibility__
   - By running it through the lighthouse in Devtolls, I confirmed that the website is easy to read with different colour contrasts, font contrasts and sizes.
 
-  ![This is an image](./assets/images/accessibility-img.png)
+  ![Accessibility results](./assets/images/accessibility-img.png)
 
 - __Unfixed Bugs__
   - No unfixed bugs
 
 ## Deployment
-<hr>
 
-- __The site was deployed to GitHub pages. The steps to deploy are as follows:__
-  - In the GitHub repository, go to the Settings tab.
-  - On the menu on the left side I selected Pages, to open GitHub Pages.
-  - In the GitHub pages section, I selected Branch and changed to Main. That way, GitHub published the website in the repository, giving the link to the website.
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, go to the Settings tab.
+- On the menu on the left side select Pages, to open GitHub Pages.
+- In the GitHub pages section, select Branch and changed to Main. That way, GitHub published the website in the repository, giving the link to the website.
 
 The link can be found here - [Portuguese Flavors](https://claudio-cruz.github.io/portuguese-flavors/).
 
 ## Credits
-<hr>
 
 - __Content__
-  -
+  - The recipies were inspirer in the [Pingo doce](https://www.pingodoce.pt/).
+  - The nav menu code was inspired in the tutorial [w3schools](https://www.w3schools.com/howto/howto_js_topnav.asp).
+  - The icons were taken from [Fontawesome](https://fontawesome.com/).
 
 - __Media__
-  - 
+  - The images were taken from [Pexels](https://www.pexels.com/).
