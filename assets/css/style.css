@@ -39,6 +39,7 @@ body {
 }
 
 /* Navigation menu */
+/* The nav menu was inspired by a tutorial on the w3schools.com website */
 #nav-menu {
     list-style-type: none;
     margin: 0;

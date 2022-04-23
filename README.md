@@ -84,13 +84,15 @@ Our main goal is to give users access to the best and most famous Portuguese rec
   - I tested the website in a variety of screen sizes, including full screen, 1200px down, 800px down, 800px down, and 500px down.I confirmed that this project is responsive to all screen sizes.
   - I have confirmed that the form works in all different screen sizes and browsers, requiring the first name, the last name and a valid email. The submit button also works.
 
-### Bugs
+## Bugs
+<hr>
 
 - __Solved bugs__
   - When I ran my HTML code in the W3C HTML Validator, I had a bug. It said that in my main section I should remove my closing p tags, but that would break the code. I solved the bug by reorganizing the section and giving more open and closing p tags to the section.
   -  When styling the recipes page, I had a bug when I was lining up two div elements. They had the same padding and the same margin, but the second div was puched down. I fixed this problem by restrocturing the section, putting both divs inside another div and giving the max-width 100% to both.
 
-### Validator Testing
+## Validator Testing
+<hr>
 
 - __HTML__
   - No errors were returned, in all HTML pages, when passing through the official W3C HTML Validator;
@@ -110,7 +112,8 @@ Our main goal is to give users access to the best and most famous Portuguese rec
 - __Unfixed Bugs__
   - No unfixed bugs
 
-### Deployment
+## Deployment
+<hr>
 
 - __The site was deployed to GitHub pages. The steps to deploy are as follows:__
   - In the GitHub repository, go to the Settings tab.
@@ -118,3 +121,12 @@ Our main goal is to give users access to the best and most famous Portuguese rec
   - In the GitHub pages section, I selected Branch and changed to Main. That way, GitHub published the website in the repository, giving the link to the website.
 
 The link can be found here - [Portuguese Flavors](https://claudio-cruz.github.io/portuguese-flavors/).
+
+## Credits
+<hr>
+
+- __Content__
+  -
+
+- __Media__
+  - 
