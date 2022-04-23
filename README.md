@@ -5,6 +5,8 @@
 Portuguese Flavours is a website for people who are passionate about food and love to cook and eat. The website focuses on Portuguese gastronomy, which is one of the world's best gastronomies. Here you can find a variety of delicious recipes that are easy to make and separated into sections: meat, fish, vegetarian, and desserts. 
 Our main goal is to give users access to the best and most famous Portuguese recipes in an easy and simple way to cook.
 
+<br>
+
 ![This is an image](./assets/images/media-quires-layouts.png)
 
 ## Features
@@ -100,3 +102,19 @@ Our main goal is to give users access to the best and most famous Portuguese rec
 - __CSS__
   - No errors were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fclaudio-cruz.github.io%2Fportuguese-flavors%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv).
 
+- __Accessibility__
+  - By running it through the lighthouse in Devtolls, I confirmed that the website is easy to read with different colour contrasts, font contrasts and sizes.
+
+  ![This is an image](./assets/images/accessibility-img.png)
+
+- __Unfixed Bugs__
+  - No unfixed bugs
+
+### Deployment
+
+- __The site was deployed to GitHub pages. The steps to deploy are as follows:__
+  - In the GitHub repository, go to the Settings tab.
+  - On the menu on the left side I selected Pages, to open GitHub Pages.
+  - In the GitHub pages section, I selected Branch and changed to Main. That way, GitHub published the website in the repository, giving the link to the website.
+
+The link can be found here - [Portuguese Flavors](https://claudio-cruz.github.io/portuguese-flavors/).
